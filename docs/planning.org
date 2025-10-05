@@ -1,0 +1,12 @@
+#+title: Planning
+* Roadmap
+** Socket
+*** TODO Handle Startup Message
+- [ ] SSL
+- [ ] Not SSL
+*** TODO Authenticate
+- [ ] PlainText Password
+- [ ] SASL/SCRAM
+** Backend Connection
+*** TODO Connect To Server
+*** TODO Handle Socket Lifecycle
